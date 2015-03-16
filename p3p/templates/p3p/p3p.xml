@@ -1,6 +1,6 @@
 <META>
   <POLICY-REFERENCES>
-    <POLICY-REF about="{% url p3p:policy %}">
+    <POLICY-REF about="/w3c/policy.p3p">
       <INCLUDE>/</INCLUDE>
       <COOKIE-INCLUDE/>
     </POLICY-REF>
